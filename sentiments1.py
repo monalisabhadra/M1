@@ -1,5 +1,10 @@
 from textblob import TextBlob
 
+
+print("")
+
+
+
 print("👋 Welcome to the AI Mood Detector!")
 name = input("What's your name? ")
 print(f"Nice to meet you, {name}! Let's find out the sentiment of your sentences.")
